@@ -1,5 +1,5 @@
 
-# JS Stands
+# RDesign Stands
 
 Um site sobre uma empresa de montagem de stands para feira de eventos, onde o foco do site é fazer uma apresentação sobre a empresa para potenciais clientes
 ## Stack utilizada
@@ -11,5 +11,5 @@ Um site sobre uma empresa de montagem de stands para feira de eventos, onde o fo
 
 ## Demonstração
 
-https://jsstands.com.br/
+https://rdesignstands.com.br
 
